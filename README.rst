@@ -28,6 +28,7 @@ Table of Contents
 The "g" key is pressed
 ----------------------
 When you press the "g" key on your keyboard, the following sequence of events takes place:
+
 - Physical Keyboard Input: The actual “g” key on the keyboard is pressed and this results in the formation of an electrical signal which transmits the input to the keyboard controller part of the computer.
 
 - Operating System Interrupt: The OS as a Windows, Mac OS, or Linux, captures the Keyboard interrupt and passes the key press event of the keyboard controller. 
