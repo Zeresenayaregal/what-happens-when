@@ -29,43 +29,43 @@ The "g" key is pressed
 ----------------------
 When you press the "g" key on your keyboard, the following sequence of events takes place:
  
- **Physical Keyboard Input**: The actual “g” key on the keyboard is pressed and this results
+ __Physical Keyboard Input__: The actual “g” key on the keyboard is pressed and this results
 in the formation of an electrical signal which transmits the input to the keyboard controller 
 part of the computer. 
 
- **Operating System Interrupt**: The OS as a Windows, Mac OS, or Linux, captures the Keyboard 
+ __Operating System Interrupt__: The OS as a Windows, Mac OS, or Linux, captures the Keyboard 
 interrupt and passes the key press event of the keyboard controller. 
 
- **Keyboard Driver Processing**: The OS’s keyboard driver software translates the key press 
+ __Keyboard Driver Processing__: The OS’s keyboard driver software translates the key press 
 event and the entry of the “g” character is detected. 
 
- **Application Input Handling**: This active application, in this case, the web browser the
+ __Application Input Handling__: This active application, in this case, the web browser the
 receives the “g” character input from the key driver of the OS. 
 
- **Browser's Auto-complete Functionality**: Auto-complete or auto-suggest feature of the web
+ __Browser's Auto-complete Functionality__: Auto-complete or auto-suggest feature of the web
 browser is invoked, because browser sensing that the user entered the first several symbols 
 of a URL or search keyword. 
 
- **Suggestion Algorithm Processing**: Consequently, the auto-complete algorithm of the browser
+ __Suggestion Algorithm Processing__: Consequently, the auto-complete algorithm of the browser
 studies the “g” input and begins with the following criteria for the suggestion list:. 
 
- **The user's browsing history**: The browser sign by analyzing the user’s previous searches
+ __The user's browsing history__: The browser sign by analyzing the user’s previous searches
 and browsing history to suggest relevant items. 
 
- **Bookmarked websites**: Some examples are as follows: The browser identifies the sites that
+ __Bookmarked websites__: Some examples are as follows: The browser identifies the sites that
 have been bookmarked and aims at suggesting sites that are related to the bookmarks. 
 
- **Cookies and cached data**: The remaining two, cookies and cached data, the browser utilizes
+ __Cookies and cached data__: The remaining two, cookies and cached data, the browser utilizes
 to deduce the user’s preference and the topics of interest by the user which in turn determines the suggestions. 
 
- **Popular searches**: The browser may also look at the overall Internet trends and common
+ __Popular searches__: The browser may also look at the overall Internet trends and common
 website to suggest to the user. 
 
- **Suggestion Refinement**: When the user continues typing, for instance, “google. com,” 
+ __Suggestion Refinement__: When the user continues typing, for instance, “google. com,” 
 the auto-complete concept in the browser re-defines the recommendations and becomes even
 more precise due to the increasing input completeness. 
 
- **Suggestion Display**: The browsers make the suggestions appear as a drop-down list or
+ __Suggestion Display__: The browsers make the suggestions appear as a drop-down list or
 a list below the URL bar where the user types the desired URL depending on the choice made.
 
 The "enter" key bottoms out
